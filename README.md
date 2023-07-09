@@ -1,10 +1,10 @@
 ![talking-character-header](./docs/talking-character-header.png)
 
-# LLM Demo - Talking Character
+# Karen from Fin-aince - LLM Demo - Talking Avatar
 
-Talking Character is a voice chatbot-based web application that allows users to interact with a 3D character using natural language. Users can provide personality, back story, and knowledge base to this character. Talking Character is powered by PaLM, a large language model from Google. To interact with Talking Character, simply tap on the microphone button and speak to the character. Talking Character will respond to your speech.
+Talking Avatar is a voice chatbot-based web application that allows users to interact with a 3D character using natural language. Users can provide personality, back story, and knowledge base to this character. Talking Character is powered by PaLM, a large language model from Google. To interact with Talking Avatar, simply tap on the microphone button and speak to the character. Talking Avatar will respond to your speech.
 
-Whether you're looking for a fun way to learn about PaLM, or you're interested in voice chatbot, Talking Character is the right demo for you!
+Whether you're looking for a fun way to learn about PaLM, or you're interested in voice chatbot, Talking Avatar is the right demo for you!
 
 ZEPETO, beloved by Gen Z, is an avatar-centric social universe where users can fully customize their digital personas, explore fashion trends, and engage in vibrant self-expression and virtual interaction. Our Talking Character template allows users to create their own avatars, dress them up in different clothes and accessories, and interact with other users in virtual worlds. We are working with ZEPETO and have tested their metaverse avatar with over 50 blendshapes with great results.
 
